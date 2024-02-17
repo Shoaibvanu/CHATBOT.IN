@@ -4,4 +4,4 @@ PyPDF2
 langchain
 huggingface-hub
 faiss
-symbl.ai
+
